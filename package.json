@@ -1,0 +1,26 @@
+{
+  "name": "mineping",
+  "version": "0.0.1",
+  "description": "Get minecraft server's infomation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/MineList/MinePing"
+  },
+  "keywords": [
+    "minecraft",
+    "ping",
+    "status",
+    "info"
+  ],
+  "author": "ryush00",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bufferpack": "0.0.6",
+    "encoding": "^0.1.8",
+    "varint": "^3.0.1"
+  }
+}
