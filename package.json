@@ -1,6 +1,6 @@
 {
   "name": "mineping",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Get minecraft server's infomation.",
   "main": "index.js",
   "scripts": {
