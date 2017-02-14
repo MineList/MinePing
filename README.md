@@ -35,7 +35,7 @@ mineping(버전 번호, 서버 주소, 포트, function(err, response) {
 
 ##### 1.7 이상
 * protocolVersion
-* version (고정값)
+* version
 * motd
 * currentPlayers
 * maxPlayers
