@@ -1,7 +1,7 @@
 # MinePing
-마인크래프트 Ping 라이브러리입니다. ![JLChnToZ님이 제작하신 mcs2 소스](https://github.com/JLChnToZ/mcs2)로부터 추출하였습니다.
+마인크래프트 Ping 라이브러리입니다. [JLChnToZ님이 제작하신 mcs2 소스](https://github.com/JLChnToZ/mcs2)로부터 추출하였습니다.
 
-현재 ![마인리스트](https://minelist.kr)의 백엔드 라이브러리로 사용하고 있습니다.
+현재 [마인리스트](https://minelist.kr)의 백엔드 라이브러리로 사용하고 있습니다.
 
 ### License
 GPLv3
@@ -39,7 +39,7 @@ mineping(버전 번호, 서버 주소, 포트, function(err, response) {
 * motd
 * currentPlayers
 * maxPlayers
-* players (존재할경우) - 1.7 이상 sample 플레이어 값.
+* players (존재할경우) - 1.7 이상 sample 플레이어 값
 * favicon (존재할경우)
 
 
