@@ -6,6 +6,11 @@
 ### License
 GPLv3
 
+### 설치 방법
+```bash
+npm install mineping
+```
+
 ### 사용법
 
 ```js
